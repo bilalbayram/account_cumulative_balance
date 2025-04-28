@@ -1,0 +1,1 @@
+Adds a “Cumulative Sum” column to the account move views in Odoo Accounting, allowing users to view the running total of account entries. Performance may be improved.
